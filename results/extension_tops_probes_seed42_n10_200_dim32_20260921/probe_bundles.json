@@ -1,0 +1,662 @@
+[
+  {
+    "task": "coat_vs_non_tops",
+    "condition": "coarse_conv1",
+    "file": "probes\\coat_vs_non_tops__coarse_conv1.joblib",
+    "probe_count": 400
+  },
+  {
+    "task": "coat_vs_non_tops",
+    "condition": "coarse_conv2",
+    "file": "probes\\coat_vs_non_tops__coarse_conv2.joblib",
+    "probe_count": 400
+  },
+  {
+    "task": "coat_vs_non_tops",
+    "condition": "coarse_fc",
+    "file": "probes\\coat_vs_non_tops__coarse_fc.joblib",
+    "probe_count": 400
+  },
+  {
+    "task": "coat_vs_non_tops",
+    "condition": "fine_conv1",
+    "file": "probes\\coat_vs_non_tops__fine_conv1.joblib",
+    "probe_count": 400
+  },
+  {
+    "task": "coat_vs_non_tops",
+    "condition": "fine_conv2",
+    "file": "probes\\coat_vs_non_tops__fine_conv2.joblib",
+    "probe_count": 400
+  },
+  {
+    "task": "coat_vs_non_tops",
+    "condition": "fine_fc",
+    "file": "probes\\coat_vs_non_tops__fine_fc.joblib",
+    "probe_count": 400
+  },
+  {
+    "task": "coat_vs_non_tops",
+    "condition": "pixels",
+    "file": "probes\\coat_vs_non_tops__pixels.joblib",
+    "probe_count": 400
+  },
+  {
+    "task": "coat_vs_non_tops",
+    "condition": "random_conv1",
+    "file": "probes\\coat_vs_non_tops__random_conv1.joblib",
+    "probe_count": 400
+  },
+  {
+    "task": "coat_vs_non_tops",
+    "condition": "random_conv2",
+    "file": "probes\\coat_vs_non_tops__random_conv2.joblib",
+    "probe_count": 400
+  },
+  {
+    "task": "coat_vs_non_tops",
+    "condition": "random_fc",
+    "file": "probes\\coat_vs_non_tops__random_fc.joblib",
+    "probe_count": 400
+  },
+  {
+    "task": "coat_vs_shirt",
+    "condition": "coarse_conv1",
+    "file": "probes\\coat_vs_shirt__coarse_conv1.joblib",
+    "probe_count": 400
+  },
+  {
+    "task": "coat_vs_shirt",
+    "condition": "coarse_conv2",
+    "file": "probes\\coat_vs_shirt__coarse_conv2.joblib",
+    "probe_count": 400
+  },
+  {
+    "task": "coat_vs_shirt",
+    "condition": "coarse_fc",
+    "file": "probes\\coat_vs_shirt__coarse_fc.joblib",
+    "probe_count": 400
+  },
+  {
+    "task": "coat_vs_shirt",
+    "condition": "fine_conv1",
+    "file": "probes\\coat_vs_shirt__fine_conv1.joblib",
+    "probe_count": 400
+  },
+  {
+    "task": "coat_vs_shirt",
+    "condition": "fine_conv2",
+    "file": "probes\\coat_vs_shirt__fine_conv2.joblib",
+    "probe_count": 400
+  },
+  {
+    "task": "coat_vs_shirt",
+    "condition": "fine_fc",
+    "file": "probes\\coat_vs_shirt__fine_fc.joblib",
+    "probe_count": 400
+  },
+  {
+    "task": "coat_vs_shirt",
+    "condition": "pixels",
+    "file": "probes\\coat_vs_shirt__pixels.joblib",
+    "probe_count": 400
+  },
+  {
+    "task": "coat_vs_shirt",
+    "condition": "random_conv1",
+    "file": "probes\\coat_vs_shirt__random_conv1.joblib",
+    "probe_count": 400
+  },
+  {
+    "task": "coat_vs_shirt",
+    "condition": "random_conv2",
+    "file": "probes\\coat_vs_shirt__random_conv2.joblib",
+    "probe_count": 400
+  },
+  {
+    "task": "coat_vs_shirt",
+    "condition": "random_fc",
+    "file": "probes\\coat_vs_shirt__random_fc.joblib",
+    "probe_count": 400
+  },
+  {
+    "task": "pullover_vs_coat",
+    "condition": "coarse_conv1",
+    "file": "probes\\pullover_vs_coat__coarse_conv1.joblib",
+    "probe_count": 400
+  },
+  {
+    "task": "pullover_vs_coat",
+    "condition": "coarse_conv2",
+    "file": "probes\\pullover_vs_coat__coarse_conv2.joblib",
+    "probe_count": 400
+  },
+  {
+    "task": "pullover_vs_coat",
+    "condition": "coarse_fc",
+    "file": "probes\\pullover_vs_coat__coarse_fc.joblib",
+    "probe_count": 400
+  },
+  {
+    "task": "pullover_vs_coat",
+    "condition": "fine_conv1",
+    "file": "probes\\pullover_vs_coat__fine_conv1.joblib",
+    "probe_count": 400
+  },
+  {
+    "task": "pullover_vs_coat",
+    "condition": "fine_conv2",
+    "file": "probes\\pullover_vs_coat__fine_conv2.joblib",
+    "probe_count": 400
+  },
+  {
+    "task": "pullover_vs_coat",
+    "condition": "fine_fc",
+    "file": "probes\\pullover_vs_coat__fine_fc.joblib",
+    "probe_count": 400
+  },
+  {
+    "task": "pullover_vs_coat",
+    "condition": "pixels",
+    "file": "probes\\pullover_vs_coat__pixels.joblib",
+    "probe_count": 400
+  },
+  {
+    "task": "pullover_vs_coat",
+    "condition": "random_conv1",
+    "file": "probes\\pullover_vs_coat__random_conv1.joblib",
+    "probe_count": 400
+  },
+  {
+    "task": "pullover_vs_coat",
+    "condition": "random_conv2",
+    "file": "probes\\pullover_vs_coat__random_conv2.joblib",
+    "probe_count": 400
+  },
+  {
+    "task": "pullover_vs_coat",
+    "condition": "random_fc",
+    "file": "probes\\pullover_vs_coat__random_fc.joblib",
+    "probe_count": 400
+  },
+  {
+    "task": "pullover_vs_non_tops",
+    "condition": "coarse_conv1",
+    "file": "probes\\pullover_vs_non_tops__coarse_conv1.joblib",
+    "probe_count": 400
+  },
+  {
+    "task": "pullover_vs_non_tops",
+    "condition": "coarse_conv2",
+    "file": "probes\\pullover_vs_non_tops__coarse_conv2.joblib",
+    "probe_count": 400
+  },
+  {
+    "task": "pullover_vs_non_tops",
+    "condition": "coarse_fc",
+    "file": "probes\\pullover_vs_non_tops__coarse_fc.joblib",
+    "probe_count": 400
+  },
+  {
+    "task": "pullover_vs_non_tops",
+    "condition": "fine_conv1",
+    "file": "probes\\pullover_vs_non_tops__fine_conv1.joblib",
+    "probe_count": 400
+  },
+  {
+    "task": "pullover_vs_non_tops",
+    "condition": "fine_conv2",
+    "file": "probes\\pullover_vs_non_tops__fine_conv2.joblib",
+    "probe_count": 400
+  },
+  {
+    "task": "pullover_vs_non_tops",
+    "condition": "fine_fc",
+    "file": "probes\\pullover_vs_non_tops__fine_fc.joblib",
+    "probe_count": 400
+  },
+  {
+    "task": "pullover_vs_non_tops",
+    "condition": "pixels",
+    "file": "probes\\pullover_vs_non_tops__pixels.joblib",
+    "probe_count": 400
+  },
+  {
+    "task": "pullover_vs_non_tops",
+    "condition": "random_conv1",
+    "file": "probes\\pullover_vs_non_tops__random_conv1.joblib",
+    "probe_count": 400
+  },
+  {
+    "task": "pullover_vs_non_tops",
+    "condition": "random_conv2",
+    "file": "probes\\pullover_vs_non_tops__random_conv2.joblib",
+    "probe_count": 400
+  },
+  {
+    "task": "pullover_vs_non_tops",
+    "condition": "random_fc",
+    "file": "probes\\pullover_vs_non_tops__random_fc.joblib",
+    "probe_count": 400
+  },
+  {
+    "task": "pullover_vs_shirt",
+    "condition": "coarse_conv1",
+    "file": "probes\\pullover_vs_shirt__coarse_conv1.joblib",
+    "probe_count": 400
+  },
+  {
+    "task": "pullover_vs_shirt",
+    "condition": "coarse_conv2",
+    "file": "probes\\pullover_vs_shirt__coarse_conv2.joblib",
+    "probe_count": 400
+  },
+  {
+    "task": "pullover_vs_shirt",
+    "condition": "coarse_fc",
+    "file": "probes\\pullover_vs_shirt__coarse_fc.joblib",
+    "probe_count": 400
+  },
+  {
+    "task": "pullover_vs_shirt",
+    "condition": "fine_conv1",
+    "file": "probes\\pullover_vs_shirt__fine_conv1.joblib",
+    "probe_count": 400
+  },
+  {
+    "task": "pullover_vs_shirt",
+    "condition": "fine_conv2",
+    "file": "probes\\pullover_vs_shirt__fine_conv2.joblib",
+    "probe_count": 400
+  },
+  {
+    "task": "pullover_vs_shirt",
+    "condition": "fine_fc",
+    "file": "probes\\pullover_vs_shirt__fine_fc.joblib",
+    "probe_count": 400
+  },
+  {
+    "task": "pullover_vs_shirt",
+    "condition": "pixels",
+    "file": "probes\\pullover_vs_shirt__pixels.joblib",
+    "probe_count": 400
+  },
+  {
+    "task": "pullover_vs_shirt",
+    "condition": "random_conv1",
+    "file": "probes\\pullover_vs_shirt__random_conv1.joblib",
+    "probe_count": 400
+  },
+  {
+    "task": "pullover_vs_shirt",
+    "condition": "random_conv2",
+    "file": "probes\\pullover_vs_shirt__random_conv2.joblib",
+    "probe_count": 400
+  },
+  {
+    "task": "pullover_vs_shirt",
+    "condition": "random_fc",
+    "file": "probes\\pullover_vs_shirt__random_fc.joblib",
+    "probe_count": 400
+  },
+  {
+    "task": "shirt_vs_non_tops",
+    "condition": "coarse_conv1",
+    "file": "probes\\shirt_vs_non_tops__coarse_conv1.joblib",
+    "probe_count": 400
+  },
+  {
+    "task": "shirt_vs_non_tops",
+    "condition": "coarse_conv2",
+    "file": "probes\\shirt_vs_non_tops__coarse_conv2.joblib",
+    "probe_count": 400
+  },
+  {
+    "task": "shirt_vs_non_tops",
+    "condition": "coarse_fc",
+    "file": "probes\\shirt_vs_non_tops__coarse_fc.joblib",
+    "probe_count": 400
+  },
+  {
+    "task": "shirt_vs_non_tops",
+    "condition": "fine_conv1",
+    "file": "probes\\shirt_vs_non_tops__fine_conv1.joblib",
+    "probe_count": 400
+  },
+  {
+    "task": "shirt_vs_non_tops",
+    "condition": "fine_conv2",
+    "file": "probes\\shirt_vs_non_tops__fine_conv2.joblib",
+    "probe_count": 400
+  },
+  {
+    "task": "shirt_vs_non_tops",
+    "condition": "fine_fc",
+    "file": "probes\\shirt_vs_non_tops__fine_fc.joblib",
+    "probe_count": 400
+  },
+  {
+    "task": "shirt_vs_non_tops",
+    "condition": "pixels",
+    "file": "probes\\shirt_vs_non_tops__pixels.joblib",
+    "probe_count": 400
+  },
+  {
+    "task": "shirt_vs_non_tops",
+    "condition": "random_conv1",
+    "file": "probes\\shirt_vs_non_tops__random_conv1.joblib",
+    "probe_count": 400
+  },
+  {
+    "task": "shirt_vs_non_tops",
+    "condition": "random_conv2",
+    "file": "probes\\shirt_vs_non_tops__random_conv2.joblib",
+    "probe_count": 400
+  },
+  {
+    "task": "shirt_vs_non_tops",
+    "condition": "random_fc",
+    "file": "probes\\shirt_vs_non_tops__random_fc.joblib",
+    "probe_count": 400
+  },
+  {
+    "task": "tops_four_way",
+    "condition": "coarse_conv1",
+    "file": "probes\\tops_four_way__coarse_conv1.joblib",
+    "probe_count": 400
+  },
+  {
+    "task": "tops_four_way",
+    "condition": "coarse_conv2",
+    "file": "probes\\tops_four_way__coarse_conv2.joblib",
+    "probe_count": 400
+  },
+  {
+    "task": "tops_four_way",
+    "condition": "coarse_fc",
+    "file": "probes\\tops_four_way__coarse_fc.joblib",
+    "probe_count": 400
+  },
+  {
+    "task": "tops_four_way",
+    "condition": "fine_conv1",
+    "file": "probes\\tops_four_way__fine_conv1.joblib",
+    "probe_count": 400
+  },
+  {
+    "task": "tops_four_way",
+    "condition": "fine_conv2",
+    "file": "probes\\tops_four_way__fine_conv2.joblib",
+    "probe_count": 400
+  },
+  {
+    "task": "tops_four_way",
+    "condition": "fine_fc",
+    "file": "probes\\tops_four_way__fine_fc.joblib",
+    "probe_count": 400
+  },
+  {
+    "task": "tops_four_way",
+    "condition": "pixels",
+    "file": "probes\\tops_four_way__pixels.joblib",
+    "probe_count": 400
+  },
+  {
+    "task": "tops_four_way",
+    "condition": "random_conv1",
+    "file": "probes\\tops_four_way__random_conv1.joblib",
+    "probe_count": 400
+  },
+  {
+    "task": "tops_four_way",
+    "condition": "random_conv2",
+    "file": "probes\\tops_four_way__random_conv2.joblib",
+    "probe_count": 400
+  },
+  {
+    "task": "tops_four_way",
+    "condition": "random_fc",
+    "file": "probes\\tops_four_way__random_fc.joblib",
+    "probe_count": 400
+  },
+  {
+    "task": "tshirt_vs_coat",
+    "condition": "coarse_conv1",
+    "file": "probes\\tshirt_vs_coat__coarse_conv1.joblib",
+    "probe_count": 400
+  },
+  {
+    "task": "tshirt_vs_coat",
+    "condition": "coarse_conv2",
+    "file": "probes\\tshirt_vs_coat__coarse_conv2.joblib",
+    "probe_count": 400
+  },
+  {
+    "task": "tshirt_vs_coat",
+    "condition": "coarse_fc",
+    "file": "probes\\tshirt_vs_coat__coarse_fc.joblib",
+    "probe_count": 400
+  },
+  {
+    "task": "tshirt_vs_coat",
+    "condition": "fine_conv1",
+    "file": "probes\\tshirt_vs_coat__fine_conv1.joblib",
+    "probe_count": 400
+  },
+  {
+    "task": "tshirt_vs_coat",
+    "condition": "fine_conv2",
+    "file": "probes\\tshirt_vs_coat__fine_conv2.joblib",
+    "probe_count": 400
+  },
+  {
+    "task": "tshirt_vs_coat",
+    "condition": "fine_fc",
+    "file": "probes\\tshirt_vs_coat__fine_fc.joblib",
+    "probe_count": 400
+  },
+  {
+    "task": "tshirt_vs_coat",
+    "condition": "pixels",
+    "file": "probes\\tshirt_vs_coat__pixels.joblib",
+    "probe_count": 400
+  },
+  {
+    "task": "tshirt_vs_coat",
+    "condition": "random_conv1",
+    "file": "probes\\tshirt_vs_coat__random_conv1.joblib",
+    "probe_count": 400
+  },
+  {
+    "task": "tshirt_vs_coat",
+    "condition": "random_conv2",
+    "file": "probes\\tshirt_vs_coat__random_conv2.joblib",
+    "probe_count": 400
+  },
+  {
+    "task": "tshirt_vs_coat",
+    "condition": "random_fc",
+    "file": "probes\\tshirt_vs_coat__random_fc.joblib",
+    "probe_count": 400
+  },
+  {
+    "task": "tshirt_vs_non_tops",
+    "condition": "coarse_conv1",
+    "file": "probes\\tshirt_vs_non_tops__coarse_conv1.joblib",
+    "probe_count": 400
+  },
+  {
+    "task": "tshirt_vs_non_tops",
+    "condition": "coarse_conv2",
+    "file": "probes\\tshirt_vs_non_tops__coarse_conv2.joblib",
+    "probe_count": 400
+  },
+  {
+    "task": "tshirt_vs_non_tops",
+    "condition": "coarse_fc",
+    "file": "probes\\tshirt_vs_non_tops__coarse_fc.joblib",
+    "probe_count": 400
+  },
+  {
+    "task": "tshirt_vs_non_tops",
+    "condition": "fine_conv1",
+    "file": "probes\\tshirt_vs_non_tops__fine_conv1.joblib",
+    "probe_count": 400
+  },
+  {
+    "task": "tshirt_vs_non_tops",
+    "condition": "fine_conv2",
+    "file": "probes\\tshirt_vs_non_tops__fine_conv2.joblib",
+    "probe_count": 400
+  },
+  {
+    "task": "tshirt_vs_non_tops",
+    "condition": "fine_fc",
+    "file": "probes\\tshirt_vs_non_tops__fine_fc.joblib",
+    "probe_count": 400
+  },
+  {
+    "task": "tshirt_vs_non_tops",
+    "condition": "pixels",
+    "file": "probes\\tshirt_vs_non_tops__pixels.joblib",
+    "probe_count": 400
+  },
+  {
+    "task": "tshirt_vs_non_tops",
+    "condition": "random_conv1",
+    "file": "probes\\tshirt_vs_non_tops__random_conv1.joblib",
+    "probe_count": 400
+  },
+  {
+    "task": "tshirt_vs_non_tops",
+    "condition": "random_conv2",
+    "file": "probes\\tshirt_vs_non_tops__random_conv2.joblib",
+    "probe_count": 400
+  },
+  {
+    "task": "tshirt_vs_non_tops",
+    "condition": "random_fc",
+    "file": "probes\\tshirt_vs_non_tops__random_fc.joblib",
+    "probe_count": 400
+  },
+  {
+    "task": "tshirt_vs_pullover",
+    "condition": "coarse_conv1",
+    "file": "probes\\tshirt_vs_pullover__coarse_conv1.joblib",
+    "probe_count": 400
+  },
+  {
+    "task": "tshirt_vs_pullover",
+    "condition": "coarse_conv2",
+    "file": "probes\\tshirt_vs_pullover__coarse_conv2.joblib",
+    "probe_count": 400
+  },
+  {
+    "task": "tshirt_vs_pullover",
+    "condition": "coarse_fc",
+    "file": "probes\\tshirt_vs_pullover__coarse_fc.joblib",
+    "probe_count": 400
+  },
+  {
+    "task": "tshirt_vs_pullover",
+    "condition": "fine_conv1",
+    "file": "probes\\tshirt_vs_pullover__fine_conv1.joblib",
+    "probe_count": 400
+  },
+  {
+    "task": "tshirt_vs_pullover",
+    "condition": "fine_conv2",
+    "file": "probes\\tshirt_vs_pullover__fine_conv2.joblib",
+    "probe_count": 400
+  },
+  {
+    "task": "tshirt_vs_pullover",
+    "condition": "fine_fc",
+    "file": "probes\\tshirt_vs_pullover__fine_fc.joblib",
+    "probe_count": 400
+  },
+  {
+    "task": "tshirt_vs_pullover",
+    "condition": "pixels",
+    "file": "probes\\tshirt_vs_pullover__pixels.joblib",
+    "probe_count": 400
+  },
+  {
+    "task": "tshirt_vs_pullover",
+    "condition": "random_conv1",
+    "file": "probes\\tshirt_vs_pullover__random_conv1.joblib",
+    "probe_count": 400
+  },
+  {
+    "task": "tshirt_vs_pullover",
+    "condition": "random_conv2",
+    "file": "probes\\tshirt_vs_pullover__random_conv2.joblib",
+    "probe_count": 400
+  },
+  {
+    "task": "tshirt_vs_pullover",
+    "condition": "random_fc",
+    "file": "probes\\tshirt_vs_pullover__random_fc.joblib",
+    "probe_count": 400
+  },
+  {
+    "task": "tshirt_vs_shirt",
+    "condition": "coarse_conv1",
+    "file": "probes\\tshirt_vs_shirt__coarse_conv1.joblib",
+    "probe_count": 400
+  },
+  {
+    "task": "tshirt_vs_shirt",
+    "condition": "coarse_conv2",
+    "file": "probes\\tshirt_vs_shirt__coarse_conv2.joblib",
+    "probe_count": 400
+  },
+  {
+    "task": "tshirt_vs_shirt",
+    "condition": "coarse_fc",
+    "file": "probes\\tshirt_vs_shirt__coarse_fc.joblib",
+    "probe_count": 400
+  },
+  {
+    "task": "tshirt_vs_shirt",
+    "condition": "fine_conv1",
+    "file": "probes\\tshirt_vs_shirt__fine_conv1.joblib",
+    "probe_count": 400
+  },
+  {
+    "task": "tshirt_vs_shirt",
+    "condition": "fine_conv2",
+    "file": "probes\\tshirt_vs_shirt__fine_conv2.joblib",
+    "probe_count": 400
+  },
+  {
+    "task": "tshirt_vs_shirt",
+    "condition": "fine_fc",
+    "file": "probes\\tshirt_vs_shirt__fine_fc.joblib",
+    "probe_count": 400
+  },
+  {
+    "task": "tshirt_vs_shirt",
+    "condition": "pixels",
+    "file": "probes\\tshirt_vs_shirt__pixels.joblib",
+    "probe_count": 400
+  },
+  {
+    "task": "tshirt_vs_shirt",
+    "condition": "random_conv1",
+    "file": "probes\\tshirt_vs_shirt__random_conv1.joblib",
+    "probe_count": 400
+  },
+  {
+    "task": "tshirt_vs_shirt",
+    "condition": "random_conv2",
+    "file": "probes\\tshirt_vs_shirt__random_conv2.joblib",
+    "probe_count": 400
+  },
+  {
+    "task": "tshirt_vs_shirt",
+    "condition": "random_fc",
+    "file": "probes\\tshirt_vs_shirt__random_fc.joblib",
+    "probe_count": 400
+  }
+]

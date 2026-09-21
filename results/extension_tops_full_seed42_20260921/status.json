@@ -1,0 +1,7 @@
+{
+  "stage": "complete",
+  "seconds": 468.9741239999421,
+  "device": "cpu",
+  "dataset_class": "FashionMNIST",
+  "probe_rows": 484
+}

@@ -1,0 +1,30 @@
+{
+  "source_dir": "results\\extension_tops_full_seed42_20260921",
+  "output_dir": "results\\extension_tops_probes_seed42_n10_200_dim32_20260921",
+  "data_dir": null,
+  "source_seed": 42,
+  "seed": 42,
+  "sample_sizes": [
+    10,
+    20,
+    30,
+    50,
+    80,
+    110,
+    150,
+    200
+  ],
+  "repeats": 10,
+  "controlled_dim": 32,
+  "projection_seeds": [
+    0,
+    1,
+    2,
+    3,
+    4
+  ],
+  "feature_batch_size": 256,
+  "num_workers": 0,
+  "requested_device": "cpu",
+  "threads": 2
+}

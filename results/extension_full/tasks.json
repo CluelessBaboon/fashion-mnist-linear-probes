@@ -1,0 +1,136 @@
+[
+  {
+    "name": "footwear_three_way",
+    "category": "within_footwear",
+    "groups": [
+      [
+        5
+      ],
+      [
+        7
+      ],
+      [
+        9
+      ]
+    ],
+    "class_names": [
+      "Sandal",
+      "Sneaker",
+      "Ankle boot"
+    ]
+  },
+  {
+    "name": "sandal_vs_sneaker",
+    "category": "within_footwear",
+    "groups": [
+      [
+        5
+      ],
+      [
+        7
+      ]
+    ],
+    "class_names": [
+      "Sandal",
+      "Sneaker"
+    ]
+  },
+  {
+    "name": "sandal_vs_ankle_boot",
+    "category": "within_footwear",
+    "groups": [
+      [
+        5
+      ],
+      [
+        9
+      ]
+    ],
+    "class_names": [
+      "Sandal",
+      "Ankle boot"
+    ]
+  },
+  {
+    "name": "sneaker_vs_ankle_boot",
+    "category": "within_footwear",
+    "groups": [
+      [
+        7
+      ],
+      [
+        9
+      ]
+    ],
+    "class_names": [
+      "Sneaker",
+      "Ankle boot"
+    ]
+  },
+  {
+    "name": "sandal_vs_non_footwear",
+    "category": "cross_pooled",
+    "groups": [
+      [
+        0,
+        1,
+        2,
+        3,
+        4,
+        6,
+        8
+      ],
+      [
+        5
+      ]
+    ],
+    "class_names": [
+      "Non-footwear",
+      "Sandal"
+    ]
+  },
+  {
+    "name": "sneaker_vs_non_footwear",
+    "category": "cross_pooled",
+    "groups": [
+      [
+        0,
+        1,
+        2,
+        3,
+        4,
+        6,
+        8
+      ],
+      [
+        7
+      ]
+    ],
+    "class_names": [
+      "Non-footwear",
+      "Sneaker"
+    ]
+  },
+  {
+    "name": "ankle_boot_vs_non_footwear",
+    "category": "cross_pooled",
+    "groups": [
+      [
+        0,
+        1,
+        2,
+        3,
+        4,
+        6,
+        8
+      ],
+      [
+        9
+      ]
+    ],
+    "class_names": [
+      "Non-footwear",
+      "Ankle boot"
+    ]
+  }
+]

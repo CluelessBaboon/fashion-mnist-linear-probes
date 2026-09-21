@@ -1,0 +1,29 @@
+{
+  "source_dir": "results\\main_full_seed42",
+  "output_dir": "results\\probes_seed42_n10_200_dim32_complete_20260918",
+  "data_dir": "data",
+  "seed": 42,
+  "sample_sizes": [
+    10,
+    20,
+    30,
+    50,
+    80,
+    110,
+    150,
+    200
+  ],
+  "repeats": 10,
+  "feature_batch_size": 256,
+  "num_workers": 0,
+  "requested_device": "cpu",
+  "threads": 1,
+  "controlled_dim": 32,
+  "projection_seeds": [
+    0,
+    1,
+    2,
+    3,
+    4
+  ]
+}

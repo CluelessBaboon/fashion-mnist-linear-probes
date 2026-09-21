@@ -1,0 +1,35 @@
+{
+  "data_dir": "data",
+  "output_dir": "results\\extension_tops_full_seed42_20260921",
+  "coarse_target": "tops",
+  "seeds": [
+    42
+  ],
+  "split_seed": 42,
+  "epochs": 10,
+  "batch_size": 64,
+  "feature_batch_size": 256,
+  "learning_rate": 0.001,
+  "cnn_train_size": 50000,
+  "cnn_val_size": 10000,
+  "probe_val_size": 2000,
+  "test_size": null,
+  "probe_sizes": [
+    5,
+    10,
+    30,
+    100
+  ],
+  "probe_cs": [
+    0.01,
+    0.1,
+    1.0
+  ],
+  "probe_max_iter": 1000,
+  "num_workers": 0,
+  "threads": 2,
+  "device": "cpu",
+  "quick": false,
+  "include_cross_pairs": false,
+  "exclude_test_indices": []
+}

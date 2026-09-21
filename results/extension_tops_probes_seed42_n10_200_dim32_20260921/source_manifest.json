@@ -1,0 +1,29 @@
+{
+  "source_dir": "C:\\Uni\\SoSe 26\\Intr. Deep Learning\\Project\\results\\extension_tops_full_seed42_20260921",
+  "source_seed": 42,
+  "coarse_target": "tops",
+  "split_indices_sha256": "aaaf0b561b36257a81f30b6c69f1a60b859940c50a461a7fbb06675521098e09",
+  "checkpoint_sha256": {
+    "random": "95dc8938e60ffb56dbda9d1f47d7f70fb9abc06f7e116dbdd4d33753df0852da",
+    "fine": "14d7f3e810d07003f9cdbd52cab7ce70a51714d6d8cb177197333353d4b432a2",
+    "coarse": "509a832c209c2bc033aa5442397a39f7e8dc3a6c69993c36e4c855f686cf17a0"
+  },
+  "source_probe_results_used": false,
+  "cnn_retrained": false,
+  "probe_cs": [
+    0.01,
+    0.1,
+    1.0
+  ],
+  "probe_max_iter": 1000,
+  "controlled_dim": 32,
+  "projection_method": "GaussianRandomProjection",
+  "projection_seeds": [
+    0,
+    1,
+    2,
+    3,
+    4
+  ],
+  "sample_size_unit": "total task-specific probe-training examples"
+}

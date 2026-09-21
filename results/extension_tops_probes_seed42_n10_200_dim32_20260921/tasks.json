@@ -1,0 +1,206 @@
+[
+  {
+    "name": "tops_four_way",
+    "category": "within_tops",
+    "groups": [
+      [
+        0
+      ],
+      [
+        2
+      ],
+      [
+        4
+      ],
+      [
+        6
+      ]
+    ],
+    "class_names": [
+      "T-shirt/top",
+      "Pullover",
+      "Coat",
+      "Shirt"
+    ]
+  },
+  {
+    "name": "tshirt_vs_pullover",
+    "category": "within_tops",
+    "groups": [
+      [
+        0
+      ],
+      [
+        2
+      ]
+    ],
+    "class_names": [
+      "T-shirt/top",
+      "Pullover"
+    ]
+  },
+  {
+    "name": "tshirt_vs_coat",
+    "category": "within_tops",
+    "groups": [
+      [
+        0
+      ],
+      [
+        4
+      ]
+    ],
+    "class_names": [
+      "T-shirt/top",
+      "Coat"
+    ]
+  },
+  {
+    "name": "tshirt_vs_shirt",
+    "category": "within_tops",
+    "groups": [
+      [
+        0
+      ],
+      [
+        6
+      ]
+    ],
+    "class_names": [
+      "T-shirt/top",
+      "Shirt"
+    ]
+  },
+  {
+    "name": "pullover_vs_coat",
+    "category": "within_tops",
+    "groups": [
+      [
+        2
+      ],
+      [
+        4
+      ]
+    ],
+    "class_names": [
+      "Pullover",
+      "Coat"
+    ]
+  },
+  {
+    "name": "pullover_vs_shirt",
+    "category": "within_tops",
+    "groups": [
+      [
+        2
+      ],
+      [
+        6
+      ]
+    ],
+    "class_names": [
+      "Pullover",
+      "Shirt"
+    ]
+  },
+  {
+    "name": "coat_vs_shirt",
+    "category": "within_tops",
+    "groups": [
+      [
+        4
+      ],
+      [
+        6
+      ]
+    ],
+    "class_names": [
+      "Coat",
+      "Shirt"
+    ]
+  },
+  {
+    "name": "tshirt_vs_non_tops",
+    "category": "cross_pooled",
+    "groups": [
+      [
+        1,
+        3,
+        5,
+        7,
+        8,
+        9
+      ],
+      [
+        0
+      ]
+    ],
+    "class_names": [
+      "Non-tops",
+      "T-shirt/top"
+    ]
+  },
+  {
+    "name": "pullover_vs_non_tops",
+    "category": "cross_pooled",
+    "groups": [
+      [
+        1,
+        3,
+        5,
+        7,
+        8,
+        9
+      ],
+      [
+        2
+      ]
+    ],
+    "class_names": [
+      "Non-tops",
+      "Pullover"
+    ]
+  },
+  {
+    "name": "coat_vs_non_tops",
+    "category": "cross_pooled",
+    "groups": [
+      [
+        1,
+        3,
+        5,
+        7,
+        8,
+        9
+      ],
+      [
+        4
+      ]
+    ],
+    "class_names": [
+      "Non-tops",
+      "Coat"
+    ]
+  },
+  {
+    "name": "shirt_vs_non_tops",
+    "category": "cross_pooled",
+    "groups": [
+      [
+        1,
+        3,
+        5,
+        7,
+        8,
+        9
+      ],
+      [
+        6
+      ]
+    ],
+    "class_names": [
+      "Non-tops",
+      "Shirt"
+    ]
+  }
+]

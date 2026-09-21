@@ -1,0 +1,422 @@
+[
+  {
+    "task": "ankle_boot_vs_non_footwear",
+    "condition": "coarse_conv1",
+    "file": "probes\\ankle_boot_vs_non_footwear__coarse_conv1.joblib",
+    "probe_count": 400
+  },
+  {
+    "task": "ankle_boot_vs_non_footwear",
+    "condition": "coarse_conv2",
+    "file": "probes\\ankle_boot_vs_non_footwear__coarse_conv2.joblib",
+    "probe_count": 400
+  },
+  {
+    "task": "ankle_boot_vs_non_footwear",
+    "condition": "coarse_fc",
+    "file": "probes\\ankle_boot_vs_non_footwear__coarse_fc.joblib",
+    "probe_count": 400
+  },
+  {
+    "task": "ankle_boot_vs_non_footwear",
+    "condition": "fine_conv1",
+    "file": "probes\\ankle_boot_vs_non_footwear__fine_conv1.joblib",
+    "probe_count": 400
+  },
+  {
+    "task": "ankle_boot_vs_non_footwear",
+    "condition": "fine_conv2",
+    "file": "probes\\ankle_boot_vs_non_footwear__fine_conv2.joblib",
+    "probe_count": 400
+  },
+  {
+    "task": "ankle_boot_vs_non_footwear",
+    "condition": "fine_fc",
+    "file": "probes\\ankle_boot_vs_non_footwear__fine_fc.joblib",
+    "probe_count": 400
+  },
+  {
+    "task": "ankle_boot_vs_non_footwear",
+    "condition": "pixels",
+    "file": "probes\\ankle_boot_vs_non_footwear__pixels.joblib",
+    "probe_count": 400
+  },
+  {
+    "task": "ankle_boot_vs_non_footwear",
+    "condition": "random_conv1",
+    "file": "probes\\ankle_boot_vs_non_footwear__random_conv1.joblib",
+    "probe_count": 400
+  },
+  {
+    "task": "ankle_boot_vs_non_footwear",
+    "condition": "random_conv2",
+    "file": "probes\\ankle_boot_vs_non_footwear__random_conv2.joblib",
+    "probe_count": 400
+  },
+  {
+    "task": "ankle_boot_vs_non_footwear",
+    "condition": "random_fc",
+    "file": "probes\\ankle_boot_vs_non_footwear__random_fc.joblib",
+    "probe_count": 400
+  },
+  {
+    "task": "footwear_three_way",
+    "condition": "coarse_conv1",
+    "file": "probes\\footwear_three_way__coarse_conv1.joblib",
+    "probe_count": 400
+  },
+  {
+    "task": "footwear_three_way",
+    "condition": "coarse_conv2",
+    "file": "probes\\footwear_three_way__coarse_conv2.joblib",
+    "probe_count": 400
+  },
+  {
+    "task": "footwear_three_way",
+    "condition": "coarse_fc",
+    "file": "probes\\footwear_three_way__coarse_fc.joblib",
+    "probe_count": 400
+  },
+  {
+    "task": "footwear_three_way",
+    "condition": "fine_conv1",
+    "file": "probes\\footwear_three_way__fine_conv1.joblib",
+    "probe_count": 400
+  },
+  {
+    "task": "footwear_three_way",
+    "condition": "fine_conv2",
+    "file": "probes\\footwear_three_way__fine_conv2.joblib",
+    "probe_count": 400
+  },
+  {
+    "task": "footwear_three_way",
+    "condition": "fine_fc",
+    "file": "probes\\footwear_three_way__fine_fc.joblib",
+    "probe_count": 400
+  },
+  {
+    "task": "footwear_three_way",
+    "condition": "pixels",
+    "file": "probes\\footwear_three_way__pixels.joblib",
+    "probe_count": 400
+  },
+  {
+    "task": "footwear_three_way",
+    "condition": "random_conv1",
+    "file": "probes\\footwear_three_way__random_conv1.joblib",
+    "probe_count": 400
+  },
+  {
+    "task": "footwear_three_way",
+    "condition": "random_conv2",
+    "file": "probes\\footwear_three_way__random_conv2.joblib",
+    "probe_count": 400
+  },
+  {
+    "task": "footwear_three_way",
+    "condition": "random_fc",
+    "file": "probes\\footwear_three_way__random_fc.joblib",
+    "probe_count": 400
+  },
+  {
+    "task": "sandal_vs_ankle_boot",
+    "condition": "coarse_conv1",
+    "file": "probes\\sandal_vs_ankle_boot__coarse_conv1.joblib",
+    "probe_count": 400
+  },
+  {
+    "task": "sandal_vs_ankle_boot",
+    "condition": "coarse_conv2",
+    "file": "probes\\sandal_vs_ankle_boot__coarse_conv2.joblib",
+    "probe_count": 400
+  },
+  {
+    "task": "sandal_vs_ankle_boot",
+    "condition": "coarse_fc",
+    "file": "probes\\sandal_vs_ankle_boot__coarse_fc.joblib",
+    "probe_count": 400
+  },
+  {
+    "task": "sandal_vs_ankle_boot",
+    "condition": "fine_conv1",
+    "file": "probes\\sandal_vs_ankle_boot__fine_conv1.joblib",
+    "probe_count": 400
+  },
+  {
+    "task": "sandal_vs_ankle_boot",
+    "condition": "fine_conv2",
+    "file": "probes\\sandal_vs_ankle_boot__fine_conv2.joblib",
+    "probe_count": 400
+  },
+  {
+    "task": "sandal_vs_ankle_boot",
+    "condition": "fine_fc",
+    "file": "probes\\sandal_vs_ankle_boot__fine_fc.joblib",
+    "probe_count": 400
+  },
+  {
+    "task": "sandal_vs_ankle_boot",
+    "condition": "pixels",
+    "file": "probes\\sandal_vs_ankle_boot__pixels.joblib",
+    "probe_count": 400
+  },
+  {
+    "task": "sandal_vs_ankle_boot",
+    "condition": "random_conv1",
+    "file": "probes\\sandal_vs_ankle_boot__random_conv1.joblib",
+    "probe_count": 400
+  },
+  {
+    "task": "sandal_vs_ankle_boot",
+    "condition": "random_conv2",
+    "file": "probes\\sandal_vs_ankle_boot__random_conv2.joblib",
+    "probe_count": 400
+  },
+  {
+    "task": "sandal_vs_ankle_boot",
+    "condition": "random_fc",
+    "file": "probes\\sandal_vs_ankle_boot__random_fc.joblib",
+    "probe_count": 400
+  },
+  {
+    "task": "sandal_vs_non_footwear",
+    "condition": "coarse_conv1",
+    "file": "probes\\sandal_vs_non_footwear__coarse_conv1.joblib",
+    "probe_count": 400
+  },
+  {
+    "task": "sandal_vs_non_footwear",
+    "condition": "coarse_conv2",
+    "file": "probes\\sandal_vs_non_footwear__coarse_conv2.joblib",
+    "probe_count": 400
+  },
+  {
+    "task": "sandal_vs_non_footwear",
+    "condition": "coarse_fc",
+    "file": "probes\\sandal_vs_non_footwear__coarse_fc.joblib",
+    "probe_count": 400
+  },
+  {
+    "task": "sandal_vs_non_footwear",
+    "condition": "fine_conv1",
+    "file": "probes\\sandal_vs_non_footwear__fine_conv1.joblib",
+    "probe_count": 400
+  },
+  {
+    "task": "sandal_vs_non_footwear",
+    "condition": "fine_conv2",
+    "file": "probes\\sandal_vs_non_footwear__fine_conv2.joblib",
+    "probe_count": 400
+  },
+  {
+    "task": "sandal_vs_non_footwear",
+    "condition": "fine_fc",
+    "file": "probes\\sandal_vs_non_footwear__fine_fc.joblib",
+    "probe_count": 400
+  },
+  {
+    "task": "sandal_vs_non_footwear",
+    "condition": "pixels",
+    "file": "probes\\sandal_vs_non_footwear__pixels.joblib",
+    "probe_count": 400
+  },
+  {
+    "task": "sandal_vs_non_footwear",
+    "condition": "random_conv1",
+    "file": "probes\\sandal_vs_non_footwear__random_conv1.joblib",
+    "probe_count": 400
+  },
+  {
+    "task": "sandal_vs_non_footwear",
+    "condition": "random_conv2",
+    "file": "probes\\sandal_vs_non_footwear__random_conv2.joblib",
+    "probe_count": 400
+  },
+  {
+    "task": "sandal_vs_non_footwear",
+    "condition": "random_fc",
+    "file": "probes\\sandal_vs_non_footwear__random_fc.joblib",
+    "probe_count": 400
+  },
+  {
+    "task": "sandal_vs_sneaker",
+    "condition": "coarse_conv1",
+    "file": "probes\\sandal_vs_sneaker__coarse_conv1.joblib",
+    "probe_count": 400
+  },
+  {
+    "task": "sandal_vs_sneaker",
+    "condition": "coarse_conv2",
+    "file": "probes\\sandal_vs_sneaker__coarse_conv2.joblib",
+    "probe_count": 400
+  },
+  {
+    "task": "sandal_vs_sneaker",
+    "condition": "coarse_fc",
+    "file": "probes\\sandal_vs_sneaker__coarse_fc.joblib",
+    "probe_count": 400
+  },
+  {
+    "task": "sandal_vs_sneaker",
+    "condition": "fine_conv1",
+    "file": "probes\\sandal_vs_sneaker__fine_conv1.joblib",
+    "probe_count": 400
+  },
+  {
+    "task": "sandal_vs_sneaker",
+    "condition": "fine_conv2",
+    "file": "probes\\sandal_vs_sneaker__fine_conv2.joblib",
+    "probe_count": 400
+  },
+  {
+    "task": "sandal_vs_sneaker",
+    "condition": "fine_fc",
+    "file": "probes\\sandal_vs_sneaker__fine_fc.joblib",
+    "probe_count": 400
+  },
+  {
+    "task": "sandal_vs_sneaker",
+    "condition": "pixels",
+    "file": "probes\\sandal_vs_sneaker__pixels.joblib",
+    "probe_count": 400
+  },
+  {
+    "task": "sandal_vs_sneaker",
+    "condition": "random_conv1",
+    "file": "probes\\sandal_vs_sneaker__random_conv1.joblib",
+    "probe_count": 400
+  },
+  {
+    "task": "sandal_vs_sneaker",
+    "condition": "random_conv2",
+    "file": "probes\\sandal_vs_sneaker__random_conv2.joblib",
+    "probe_count": 400
+  },
+  {
+    "task": "sandal_vs_sneaker",
+    "condition": "random_fc",
+    "file": "probes\\sandal_vs_sneaker__random_fc.joblib",
+    "probe_count": 400
+  },
+  {
+    "task": "sneaker_vs_ankle_boot",
+    "condition": "coarse_conv1",
+    "file": "probes\\sneaker_vs_ankle_boot__coarse_conv1.joblib",
+    "probe_count": 400
+  },
+  {
+    "task": "sneaker_vs_ankle_boot",
+    "condition": "coarse_conv2",
+    "file": "probes\\sneaker_vs_ankle_boot__coarse_conv2.joblib",
+    "probe_count": 400
+  },
+  {
+    "task": "sneaker_vs_ankle_boot",
+    "condition": "coarse_fc",
+    "file": "probes\\sneaker_vs_ankle_boot__coarse_fc.joblib",
+    "probe_count": 400
+  },
+  {
+    "task": "sneaker_vs_ankle_boot",
+    "condition": "fine_conv1",
+    "file": "probes\\sneaker_vs_ankle_boot__fine_conv1.joblib",
+    "probe_count": 400
+  },
+  {
+    "task": "sneaker_vs_ankle_boot",
+    "condition": "fine_conv2",
+    "file": "probes\\sneaker_vs_ankle_boot__fine_conv2.joblib",
+    "probe_count": 400
+  },
+  {
+    "task": "sneaker_vs_ankle_boot",
+    "condition": "fine_fc",
+    "file": "probes\\sneaker_vs_ankle_boot__fine_fc.joblib",
+    "probe_count": 400
+  },
+  {
+    "task": "sneaker_vs_ankle_boot",
+    "condition": "pixels",
+    "file": "probes\\sneaker_vs_ankle_boot__pixels.joblib",
+    "probe_count": 400
+  },
+  {
+    "task": "sneaker_vs_ankle_boot",
+    "condition": "random_conv1",
+    "file": "probes\\sneaker_vs_ankle_boot__random_conv1.joblib",
+    "probe_count": 400
+  },
+  {
+    "task": "sneaker_vs_ankle_boot",
+    "condition": "random_conv2",
+    "file": "probes\\sneaker_vs_ankle_boot__random_conv2.joblib",
+    "probe_count": 400
+  },
+  {
+    "task": "sneaker_vs_ankle_boot",
+    "condition": "random_fc",
+    "file": "probes\\sneaker_vs_ankle_boot__random_fc.joblib",
+    "probe_count": 400
+  },
+  {
+    "task": "sneaker_vs_non_footwear",
+    "condition": "coarse_conv1",
+    "file": "probes\\sneaker_vs_non_footwear__coarse_conv1.joblib",
+    "probe_count": 400
+  },
+  {
+    "task": "sneaker_vs_non_footwear",
+    "condition": "coarse_conv2",
+    "file": "probes\\sneaker_vs_non_footwear__coarse_conv2.joblib",
+    "probe_count": 400
+  },
+  {
+    "task": "sneaker_vs_non_footwear",
+    "condition": "coarse_fc",
+    "file": "probes\\sneaker_vs_non_footwear__coarse_fc.joblib",
+    "probe_count": 400
+  },
+  {
+    "task": "sneaker_vs_non_footwear",
+    "condition": "fine_conv1",
+    "file": "probes\\sneaker_vs_non_footwear__fine_conv1.joblib",
+    "probe_count": 400
+  },
+  {
+    "task": "sneaker_vs_non_footwear",
+    "condition": "fine_conv2",
+    "file": "probes\\sneaker_vs_non_footwear__fine_conv2.joblib",
+    "probe_count": 400
+  },
+  {
+    "task": "sneaker_vs_non_footwear",
+    "condition": "fine_fc",
+    "file": "probes\\sneaker_vs_non_footwear__fine_fc.joblib",
+    "probe_count": 400
+  },
+  {
+    "task": "sneaker_vs_non_footwear",
+    "condition": "pixels",
+    "file": "probes\\sneaker_vs_non_footwear__pixels.joblib",
+    "probe_count": 400
+  },
+  {
+    "task": "sneaker_vs_non_footwear",
+    "condition": "random_conv1",
+    "file": "probes\\sneaker_vs_non_footwear__random_conv1.joblib",
+    "probe_count": 400
+  },
+  {
+    "task": "sneaker_vs_non_footwear",
+    "condition": "random_conv2",
+    "file": "probes\\sneaker_vs_non_footwear__random_conv2.joblib",
+    "probe_count": 400
+  },
+  {
+    "task": "sneaker_vs_non_footwear",
+    "condition": "random_fc",
+    "file": "probes\\sneaker_vs_non_footwear__random_fc.joblib",
+    "probe_count": 400
+  }
+]

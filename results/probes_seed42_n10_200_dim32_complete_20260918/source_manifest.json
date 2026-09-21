@@ -1,0 +1,27 @@
+{
+  "source_dir": "C:\\Uni\\SoSe 26\\Intr. Deep Learning\\Project\\results\\main_full_seed42",
+  "split_indices_sha256": "3dd1fcea239566cd9637000b877e07e2232bd2eb378525f6d7c571386085af81",
+  "random_cnn_sha256": "95dc8938e60ffb56dbda9d1f47d7f70fb9abc06f7e116dbdd4d33753df0852da",
+  "trained_cnn_sha256": "d8d73d02b3a36adb09ea9b62e9f5879c2e0efdff3d2d52ce90f9cdcd72bf9541",
+  "source_probe_cs": [
+    0.01,
+    0.1,
+    1.0
+  ],
+  "source_probe_max_iter": 1000,
+  "source_probe_results_used": false,
+  "targets": [
+    "footwear",
+    "tops"
+  ],
+  "controlled_dim": 32,
+  "projection_seeds": [
+    0,
+    1,
+    2,
+    3,
+    4
+  ],
+  "projection_method": "GaussianRandomProjection",
+  "cnn_retrained": false
+}

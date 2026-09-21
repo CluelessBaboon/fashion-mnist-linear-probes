@@ -1,0 +1,25 @@
+{
+  "python": "3.10.20",
+  "platform": "Windows-10-10.0.26100-SP0",
+  "packages": {
+    "torch": "2.11.0",
+    "torchvision": "0.26.0",
+    "numpy": "2.2.6",
+    "scipy": "1.15.3",
+    "scikit-learn": "1.7.2",
+    "matplotlib": "3.10.8",
+    "joblib": "1.5.3",
+    "threadpoolctl": "3.6.0"
+  },
+  "source_sha256": {
+    "extension_config.py": "2cd0c1e25537dd31567c59efa3e4bfd10446a6432750d32229e17131d807dcbd",
+    "extension_data.py": "e795940836098b1449be580537a7649cc09f6a0e734e4dd5a8c036af785724c6",
+    "extension_features.py": "886d18f3019a7e129ca5493f4b9fce859be250f5cbbf583fd9d19c741a5735bf",
+    "extension_pipeline.py": "1ef4f8d7959cdf71e0e36ee0718ef2d7678617ca27ced7fec5b3d8db8fbd1f17",
+    "extension_probes.py": "c2b7aae87911ed8d8b9f42816d1b020b8d7afc33b57a612a434b92d6765f3243",
+    "extension_reporting.py": "42ca55875dba08b0a84de9e1ea92c926d77d0d3b01b6cd3bdebc36aa1c754db8",
+    "extension_sample_efficiency.py": "36a8d4be9029a2464b38bee7bf7a3e3a01d5d4fbfeca89737ae6f1f5839b444f",
+    "extension_training.py": "81471fdbe06c655559091d6a2f621339088d22c62d6881d0c8fecdd3f8d2ca7f",
+    "models.py": "5ca4caa54447b3ddbc6edce0e058ac16e1b6ff8305fb94a1be7c35e75dc533f9"
+  }
+}

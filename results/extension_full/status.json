@@ -1,0 +1,7 @@
+{
+  "stage": "source_backbones_preserved",
+  "device": "cpu",
+  "dataset_class": "FashionMNIST",
+  "probe_results_removed": true,
+  "replacement_probe_run": "../extension_probes_seed42_n10_200_dim32_complete_20260918"
+}

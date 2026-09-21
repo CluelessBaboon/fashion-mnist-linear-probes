@@ -1,0 +1,23 @@
+{
+  "data_dir": "data",
+  "output_dir": "results\\main_full_seed42",
+  "seed": 42,
+  "epochs": 10,
+  "batch_size": 64,
+  "feature_batch_size": 256,
+  "learning_rate": 0.001,
+  "cnn_train_size": 50000,
+  "cnn_val_size": 10000,
+  "probe_train_size": 5000,
+  "probe_val_size": 2000,
+  "test_size": null,
+  "probe_cs": [
+    0.01,
+    0.1,
+    1.0
+  ],
+  "probe_max_iter": 1000,
+  "num_workers": 0,
+  "requested_device": "cpu",
+  "quick": false
+}

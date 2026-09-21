@@ -1,0 +1,86 @@
+[
+  {
+    "target": "footwear",
+    "condition": "pixels",
+    "file": "probes\\footwear__pixels.joblib",
+    "probe_count": 400
+  },
+  {
+    "target": "footwear",
+    "condition": "random_conv1",
+    "file": "probes\\footwear__random_conv1.joblib",
+    "probe_count": 400
+  },
+  {
+    "target": "footwear",
+    "condition": "random_conv2",
+    "file": "probes\\footwear__random_conv2.joblib",
+    "probe_count": 400
+  },
+  {
+    "target": "footwear",
+    "condition": "random_fc",
+    "file": "probes\\footwear__random_fc.joblib",
+    "probe_count": 400
+  },
+  {
+    "target": "footwear",
+    "condition": "trained_conv1",
+    "file": "probes\\footwear__trained_conv1.joblib",
+    "probe_count": 400
+  },
+  {
+    "target": "footwear",
+    "condition": "trained_conv2",
+    "file": "probes\\footwear__trained_conv2.joblib",
+    "probe_count": 400
+  },
+  {
+    "target": "footwear",
+    "condition": "trained_fc",
+    "file": "probes\\footwear__trained_fc.joblib",
+    "probe_count": 400
+  },
+  {
+    "target": "tops",
+    "condition": "pixels",
+    "file": "probes\\tops__pixels.joblib",
+    "probe_count": 400
+  },
+  {
+    "target": "tops",
+    "condition": "random_conv1",
+    "file": "probes\\tops__random_conv1.joblib",
+    "probe_count": 400
+  },
+  {
+    "target": "tops",
+    "condition": "random_conv2",
+    "file": "probes\\tops__random_conv2.joblib",
+    "probe_count": 400
+  },
+  {
+    "target": "tops",
+    "condition": "random_fc",
+    "file": "probes\\tops__random_fc.joblib",
+    "probe_count": 400
+  },
+  {
+    "target": "tops",
+    "condition": "trained_conv1",
+    "file": "probes\\tops__trained_conv1.joblib",
+    "probe_count": 400
+  },
+  {
+    "target": "tops",
+    "condition": "trained_conv2",
+    "file": "probes\\tops__trained_conv2.joblib",
+    "probe_count": 400
+  },
+  {
+    "target": "tops",
+    "condition": "trained_fc",
+    "file": "probes\\tops__trained_fc.joblib",
+    "probe_count": 400
+  }
+]

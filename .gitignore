@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.venv/
+.pytest_cache/
+tmp/
+data/
+
+# LaTeX build files
+*.aux
+*.log
+*.out
+*.synctex.gz

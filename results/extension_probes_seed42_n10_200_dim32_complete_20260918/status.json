@@ -1,0 +1,16 @@
+{
+  "stage": "complete",
+  "seconds": 1306.0617398000322,
+  "device": "cpu",
+  "source_seed": 42,
+  "fitted_probes": 28000,
+  "probe_rows": 30800,
+  "aggregate_rows": 616,
+  "paired_rows": 16800,
+  "paired_aggregate_rows": 336,
+  "controlled_dim": 32,
+  "sampling_repeats": 10,
+  "projection_seeds": 5,
+  "probe_bundles": 70,
+  "cnn_retrained": false
+}
