@@ -53,7 +53,7 @@ python fashion_mnist_extension.py --coarse-target tops --seed 42 --device cpu --
 python fashion_mnist_extension_sample_efficiency.py --source-dir results/reproduction/tops --source-seed 42 --output-dir results/reproduction/tops_probes --seed 42 --sample-sizes 10 20 30 50 80 110 150 200 --repeats 10 --controlled-dim 32 --projection-seeds 0 1 2 3 4 --device cpu --threads 2
 ```
 
-The full CPU workflow can take over an hour. Progress is printed to the terminal.
+The full CPU workflow can take over an hour for a consumer grade laptop. Progress is printed to the terminal.
 Each results directory contains its configuration and status, raw and aggregate
 metrics, fitted probes, split information, and generated figures.
 
